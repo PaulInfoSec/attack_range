@@ -23,7 +23,7 @@ charset-normalizer==2.0.12
 colorama==0.4.4
 configparser==5.2.0
 contextlib2==21.6.0
-cryptography==36.0.2
+cryptography==39.0.1
 Deprecated==1.2.13
 distlib==0.3.4
 dnspython==2.2.1
